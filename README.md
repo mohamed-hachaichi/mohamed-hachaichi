@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<--
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Urban Metabolism and Climate change effects**
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: hachaichi_mohamed@outlook.com 
 - 😄 Pronouns: Mohamed | Nur 
 - ⚡ Fun fact: I love DS
--->
