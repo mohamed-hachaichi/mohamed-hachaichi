@@ -2,6 +2,8 @@
 
 Here are some ideas to get you started:
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=El-Nour)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on **Urban Metabolism and Climate change effects**
 - 🌱 I’m currently learning about DL algorithms 
 - 👯 I’m looking to collaborate on **Research on climate change and built environment** 
@@ -10,5 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: hachaichi_mohamed@outlook.com 
 - 😄 Pronouns: Mohamed | Nur 
 - ⚡ Fun fact: I love DS
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=El-Nour)](https://github.com/anuraghazra/github-readme-stats)
