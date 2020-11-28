@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: hachaichi_mohamed@outlook.com 
 - 😄 Pronouns: Mohamed | Nur 
 - ⚡ Fun fact: I love DS
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=El-Nour)](https://github.com/anuraghazra/github-readme-stats)
