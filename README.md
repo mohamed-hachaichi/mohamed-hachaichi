@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Here are some ideas about me:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=El-Nour)](https://github.com/anuraghazra/github-readme-stats)
 
